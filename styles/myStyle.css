@@ -1,0 +1,74 @@
+/*Kizy Matzenbacher
+06/18/2022*/
+li {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #5e524c;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #5e524c;
+}
+.white {
+  color: white;
+}
+
+a {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h5 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #5e524c;
+}
+span {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #b76e79;
+}
+.borderk {
+  border-bottom: 1px solid #b76e79;
+  padding-bottom: 5px;
+}
+header.masthead {
+  position: relative;
+  padding-top: calc(1rem + 20px);
+  padding-bottom: 1rem;
+  background: no-repeat center center;
+  background-size: cover;
+  background-attachment: scroll;
+  background-size: auto;
+}
+.bgcolor {
+  background-color: rgba(47, 23, 15, 0.9);
+}
+.lcolor {
+  color: #5e524c;
+}
+body {
+  background-image: linear-gradient(
+      rgba(47, 23, 15, 0.65),
+      rgba(47, 23, 15, 0.65)
+    ),
+    url("../images/pink.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
